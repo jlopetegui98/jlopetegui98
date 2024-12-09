@@ -7,7 +7,7 @@
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python, C++, C, Go  
+- **Languages:** Python, C++, C#, C, Go  
 - **Frameworks & Tools:** PyTorch, TensorFlow, Transformers  
 - **Fields of Expertise:** Natural Language Processing (NLP), Natural Language Understanding, Computer Vision, Generative Models, Algorithms
 
@@ -15,13 +15,15 @@
 
 ## 🌟 Key Projects
 
-### 🔗[Creation of a synthetic dataset for French-NER in biomedical data](https://github.com/jlopetegui98/Creation-of-a-synthetic-dataset-for-French-NER-in-clinical-trial-texts)
+### 🔗[Creation of a synthetic dataset for French-NER in biomedical data](https://github.com/jlopetegui98/Creation-of-a-synthetic-dataset-for-French-NER-in-clinical-trial-texts). Dataset available in [HuggingFace](https://huggingface.co/datasets/JavierLopetegui/chia-ner-french)
 
 ### 🔗[Exploring generative approaches for NER in biomedical data](https://github.com/jlopetegui98/NER-ClinicalTrials-Eligibility-Criteria)
 
 ### 🔗 [RebornToBeWelde: Fine-Tuning a Language Model to Mimic Oscar Wilde](https://github.com/jlopetegui98/RebornToBeWelde)
 
-### 🔗 [Exploring classical ML approaches for X-ray images classification](https://github.com/jlopetegui98/Hands-on-ML-Project/blob/main/main.ipynb)
+### 🔗 [Applying Loss-Calibrated Approximate Inference in Bayesian Neural Networks for X-rays image classification](https://github.com/jlopetegui98/BayesianML-project)
+
+### 🔗 [Exploring classical ML approaches for X-rays images classification](https://github.com/jlopetegui98/Hands-on-ML-Project/blob/main/main.ipynb)
 
 ---
 
