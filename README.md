@@ -19,7 +19,7 @@
 
 ### 🔗[Exploring generative approaches for NER in biomedical data](https://github.com/jlopetegui98/NER-ClinicalTrials-Eligibility-Criteria)
 
-### 🔗 [RebornToBeWelde: Fine-Tuning a Language Model to Mimic Oscar Wilde](https://github.com/jlopetegui98/RebornToBeWelde)
+### 🔗 [RebornToBeWilde: Fine-Tuning a Language Model to Mimic Oscar Wilde](https://github.com/jlopetegui98/RebornToBeWilde)
 
 ### 🔗 [Applying Loss-Calibrated Approximate Inference in Bayesian Neural Networks for X-rays image classification](https://github.com/jlopetegui98/BayesianML-project)
 
