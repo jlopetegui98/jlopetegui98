@@ -27,13 +27,6 @@
 
 ---
 
-## 🔭 What I'm Working On
-Currently, I’m diving deeper into:  
-- Transformer-based approaches for **3D point cloud learning**.  
-- **Multimodal ML models** with a focus on vision and language integration.  
-
----
-
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/javier-alejandro-lopetegui-gonzalez-7215871b8/)  
 - [Email](mailto:javier.lopetegui_gonzalez@ens-paris-saclay.fr)  
