@@ -25,6 +25,8 @@
 
 ### 🔗 [Exploring classical ML approaches for X-rays images classification](https://github.com/jlopetegui98/Hands-on-ML-Project/blob/main/main.ipynb)
 
+### 🔗 [PGM-FP: Generative modelling with Missing not at Random Data: Combining DLVMs to enhance data imputation](https://github.com/cuevascarlos/PGM-FP_notMIWAE)
+
 ---
 
 ## 📫 Let's Connect!
