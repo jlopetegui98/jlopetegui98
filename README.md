@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Javier Alejandro LOPETEGUI GONZALEZ!
 
 🎓 I am currently pursuing the **MVA Master's program** at **ENS Paris-Saclay**.  
-💡  With a strong background in **Computer Science** and **Deep Learning**, my research interests include **multimodal approaches**, **knowledge acquisition processes in deep learning**, and developing models that are **efficient**, **reliable**, and **interpretable**.  
+💡  With a strong background in **Computer Science** and **Deep Learning**, my research interests include **LLMs**, **multimodal approaches**, **knowledge acquisition processes in deep learning**, and developing models that are **efficient**, **reliable**, and **interpretable**.  
 
 ---
 
@@ -17,7 +17,9 @@
 
 ### 🔗[Creation of a synthetic dataset for French-NER in biomedical data](https://github.com/jlopetegui98/Creation-of-a-synthetic-dataset-for-French-NER-in-clinical-trial-texts). Dataset available in [HuggingFace](https://huggingface.co/datasets/JavierLopetegui/chia-ner-french)
 
-### 🔗[Exploring generative approaches for NER in biomedical data](https://github.com/jlopetegui98/NER-ClinicalTrials-Eligibility-Criteria)
+### 🔗 [Composed Image Retrieval (CoIR) based on CoVR-BLIP-2 architecture](https://github.com/cuevascarlos/CoVR). Best checkpoint available in Hugging Face: [CoIR-BLIP-2](https://huggingface.co/JavierLopetegui/CoIR-CoVR-BLIP-2)
+
+### 🔗 [Exploring generative approaches for NER in biomedical data](https://github.com/jlopetegui98/NER-ClinicalTrials-Eligibility-Criteria)
 
 ### 🔗 [RebornToBeWilde: Fine-Tuning a Language Model to Mimic Oscar Wilde](https://github.com/jlopetegui98/RebornToBeWilde)
 
