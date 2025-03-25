@@ -19,6 +19,8 @@
 
 ### 🔗 [Composed Image Retrieval (CoIR) based on CoVR-BLIP-2 architecture](https://github.com/cuevascarlos/CoVR). Best checkpoint available in Hugging Face: [CoIR-BLIP-2](https://huggingface.co/JavierLopetegui/CoIR-CoVR-BLIP-2)
 
+### 🔗 [Pruning of Experts (PoE)](https://github.com/jlopetegui98/PruningOfExperts)
+
 ### 🔗 [Exploring generative approaches for NER in biomedical data](https://github.com/jlopetegui98/NER-ClinicalTrials-Eligibility-Criteria)
 
 ### 🔗 [RebornToBeWilde: Fine-Tuning a Language Model to Mimic Oscar Wilde](https://github.com/jlopetegui98/RebornToBeWilde)
